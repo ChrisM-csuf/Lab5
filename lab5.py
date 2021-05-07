@@ -15,4 +15,19 @@ translated
 replace the list items with the translated words and print the entire thing back to the user.
 """
 
+"""
+main():
+    set dictionary = translate ()
+    translate()
+
+translate():
+    print out the translated sentence
+
+create_dictionary():
+    read in textese.txt
+    create list = each line in the file
+    close the file
+    create dict off the list
+    return dict
+"""
 
